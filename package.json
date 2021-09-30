@@ -16,5 +16,8 @@
     "url": "https://github.com/Chhavibajajkhurana/tinyapp/issues"
   },
   "homepage": "https://github.com/Chhavibajajkhurana/tinyapp#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
