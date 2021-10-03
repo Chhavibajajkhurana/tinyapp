@@ -1,1 +1,23 @@
-Screen Shot 2021-09-30 at 9.27.57 PM
+# TinyApp Project
+
+TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+
+## Final Product
+This is the login page
+!["screenshot description"]https://github.com/Chhavibajajkhurana/tinyapp/blob/master/docs/urls_index.png)
+
+!["screenshot description"](#)
+
+## Dependencies
+
+- Node.js
+- Express
+- EJS
+- bcrypt
+- body-parser
+- cookie-session
+
+## Getting Started
+
+- Install all dependencies (using the `npm install` command).
+- Run the development web server using the `node express_server.js` command.
